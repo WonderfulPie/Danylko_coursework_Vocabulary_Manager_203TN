@@ -1,0 +1,23 @@
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary Shostya.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\MainWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\App.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary Shostya.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary Shostya.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\AddTermWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\AddTermWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\SettingsWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\SettingsWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary Shostya.csproj.CopyComplete
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary_MarkupCompile.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary_MarkupCompile.lref
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary.exe
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary.pdb
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\bin\Debug\Vocabulary.exe.config
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\bin\Debug\Vocabulary.exe
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\bin\Debug\Vocabulary.pdb
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary.g.resources
+D:\Coding\Visual Studio\VS projects\Vocabulary Shostya\obj\Debug\Vocabulary.Properties.Resources.resources

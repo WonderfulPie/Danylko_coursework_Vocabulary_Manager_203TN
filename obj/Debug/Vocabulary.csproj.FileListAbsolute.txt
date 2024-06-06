@@ -1,0 +1,46 @@
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\bin\Debug\Vocabulary.exe.config
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\bin\Debug\Vocabulary.exe
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\bin\Debug\Vocabulary.pdb
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\AddTermWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\SettingsWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\AddTermWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\SettingsWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\App.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary_MarkupCompile.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary_MarkupCompile.lref
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\MainWindow.baml
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.g.resources
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.CopyComplete
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.exe
+D:\Coding\Visual Studio\VS projects\Vocabulary Danylko\obj\Debug\Vocabulary.pdb
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\bin\Debug\Vocabulary.exe.config
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\bin\Debug\Vocabulary.exe
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\bin\Debug\Vocabulary.pdb
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\bin\Debug\Newtonsoft.Json.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\bin\Debug\Newtonsoft.Json.xml
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\AddTermWindow.baml
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\SettingsWindow.baml
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\AddTermWindow.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\MainWindow.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\SettingsWindow.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\App.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary_MarkupCompile.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary_MarkupCompile.lref
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\MainWindow.baml
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.g.resources
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.csproj.Up2Date
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.exe
+D:\University\2 курс\4 семестр\ООП\Курсова робота\Vocabulary Danylko\obj\Debug\Vocabulary.pdb
